@@ -77,5 +77,5 @@ const TravelPlaceSearchPage = () => {
 
 export default TravelPlaceSearchPage;
 
-// tags, photos , icon
+// tags, photos , icon  and responsive still not finish yet
 
