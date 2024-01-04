@@ -1,7 +1,15 @@
 import "./App.css";
+import TravelPlaceSearchPage from "./assets/components/TravelPage.jsx";
 
-function App() {
-  return <div className="App">{/* Start coding here */}</div>;
+
+const App = () =>{
+  return (
+    <>
+     <TravelPlaceSearchPage/>
+    </>
+   
+
+  ) 
 }
 
 export default App;
