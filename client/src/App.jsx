@@ -1,6 +1,5 @@
 import "./App.css";
-import TravelPlaceSearchPage from "./assets/components/TravelPage.jsx";
-
+import TravelPlaceSearchPage from "./components/TravelPage.jsx";
 
 const App = () =>{
   return (
